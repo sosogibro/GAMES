@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin: 0;
     background-color: #111 ;
@@ -10,3 +11,17 @@ canvas{
     border: 3px solid cyan;
     margin-top: 16px;
 }
+=======
+body{
+    margin: 0;
+    background-color: #111 ;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+canvas{
+    background-color: #222;
+    border: 3px solid cyan;
+    margin-top: 16px;
+}
+>>>>>>> 419aac3fe319b45b1d31f2608cfb21fb75807033
